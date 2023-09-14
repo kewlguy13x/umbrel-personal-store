@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: kewlguy-metube
+name: MeTube
+tagline: Replace this tagline with your app's tagline
+icon: https://d36jcksde1wxzq.cloudfront.net/54e48877dab8df8f92cd.png
+category: Development
+version: "1.0.0"
+port: 8081
+description: >-
+  Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites.
+developer: Umbrel
+website: https://umbrel.com
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
