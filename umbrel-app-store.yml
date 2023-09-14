@@ -1,2 +1,2 @@
-id: "Kewlguy" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
-name: "Kewlguy" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
+id: "kewlguy" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
+name: "kewlguy" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
